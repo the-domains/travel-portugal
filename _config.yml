@@ -6,9 +6,9 @@ color:
   saturation: 0.9812614188995212
   rhythmicContrast: 0.14051114907488227
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#3E3D25'
+    - '#670400'
+    - '#FEFDFE'
+    - '#DBC539'
 name: Travel Portugal
