@@ -1,4 +1,3 @@
-layout_spectrum: 0.8546833726577461
 typography_spectrum: 0.8580455100163817
 color:
   brandStrength: 0.5561745583545417
@@ -11,5 +10,7 @@ color:
     - '#670400'
     - '#FEFDFE'
     - '#DBC539'
+layout_spectrum: 0.8546833726577461
 name: Travel Portugal
 title: Slow Food Travel Portugal
+description: '14 Days 14 Nights '
